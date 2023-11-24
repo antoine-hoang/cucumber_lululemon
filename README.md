@@ -8,7 +8,7 @@ Results:
 
 
 Structure of the project is as follows:
-#############################################################################################################
+###############################################################
             Files related to exercice 1 are:
             
             - page_object
@@ -26,7 +26,7 @@ Structure of the project is as follows:
             behave features\roomcreation.feature
             
 
-#############################################################################################################
+###############################################################
             Files related to exercice 2 are:
             
             -steps
@@ -36,7 +36,8 @@ Structure of the project is as follows:
             All tests have been implemented with Cucumber's feature and can be run with the command:
             behave features\api_automation.feature
 
-#############################################################################################################
+###############################################################
+           
             All requirements to run the project are in the requirements.txt
 
 
