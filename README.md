@@ -67,8 +67,8 @@ Structure of the project is as follows:
       - Instances where the checkboxes don't register correctly after multiple room creations
       - Instances where the checkboxes register as numbers and not as room details
 - I have done the exercices twice, one normally with pytest, selenium, python - and another refactoring including Cucumber and Gherkins
-  Having not necessarily an extensive training on Cucumber, I had to spend a lot of time looking at how to refactor my code (which worked without Cucumber already)
-  and I may have some complexity issues in some functions because of that.
+- Having not necessarily an extensive training on Cucumber, I had to spend a lot of time looking at how to refactor my code (which worked without Cucumber already)
+  and I may have some complexity issues in some functions because of that. 
     - I haven't figured out how to combine my conftest.py file with Cucumber yet
     - I haven't figured out how to use the same grouping suites as pytest and the mark decoration with Cucumber
 - I would be looking to add a report generator, similar to the one provided with pytest, but with Cucumber - need to investigate this matter.
