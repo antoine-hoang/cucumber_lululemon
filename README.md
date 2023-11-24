@@ -16,7 +16,7 @@ Structure of the project is as follows:
             roomcreation.feature
             
             All tests have been implemented with Cucumber's feature and can be run with the command:
-            behave feature\roomcreation.feature
+            behave features\roomcreation.feature
             
 
 #############################################################################################################
@@ -27,7 +27,7 @@ Structure of the project is as follows:
             api_automation.feature
             
             All tests have been implemented with Cucumber's feature and can be run with the command:
-            behave feature\api_automation.feature
+            behave features\api_automation.feature
 
 #############################################################################################################
             All requirements to run the project are in the requirements.txt
