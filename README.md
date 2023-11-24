@@ -1,4 +1,11 @@
 # cucumber_lululemon
+Results:
+
+![api](https://github.com/antoine-hoang/cucumber_lululemon/assets/151917085/4d9e0894-5064-47b0-85a4-909583da640b)
+
+
+![room](https://github.com/antoine-hoang/cucumber_lululemon/assets/151917085/cd011461-70c8-4064-bd8d-21b6ac968b8c)
+
 
 Structure of the project is as follows:
 #############################################################################################################
@@ -67,12 +74,6 @@ Structure of the project is as follows:
 - Overall an interesting exercice, especially because of the refactoring with Cucumber, which took almost 80% of the total time spent on this project.
   
 
-Screenshots:
-
-![api](https://github.com/antoine-hoang/cucumber_lululemon/assets/151917085/4d9e0894-5064-47b0-85a4-909583da640b)
-
-
-![room](https://github.com/antoine-hoang/cucumber_lululemon/assets/151917085/cd011461-70c8-4064-bd8d-21b6ac968b8c)
 
 
 
