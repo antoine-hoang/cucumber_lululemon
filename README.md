@@ -68,11 +68,11 @@ Structure of the project is as follows:
   
 
 Screenshots:
-![room_creation]([http://url/to/img.png](https://cdn.discordapp.com/attachments/1102095396387430441/1177549813517127700/api.JPG?ex=6572e9b9&is=656074b9&hm=6eb94be47024035aa4bfe8d6cd8c07b0d356cb177c8b03db6b597580e538f687&)https://cdn.discordapp.com/attachments/1102095396387430441/1177549813517127700/api.JPG?ex=6572e9b9&is=656074b9&hm=6eb94be47024035aa4bfe8d6cd8c07b0d356cb177c8b03db6b597580e538f687&)
-![api_testing]([http://url/to/img.png](https://cdn.discordapp.com/attachments/1102095396387430441/1177549813806551102/room.JPG?ex=6572e9b9&is=656074b9&hm=71ad7be0be991b9f77ede8a5124584725432e670082a630bc71fbd8d793cb6c1&)https://cdn.discordapp.com/attachments/1102095396387430441/1177549813806551102/room.JPG?ex=6572e9b9&is=656074b9&hm=71ad7be0be991b9f77ede8a5124584725432e670082a630bc71fbd8d793cb6c1&)
+
+![api](https://github.com/antoine-hoang/cucumber_lululemon/assets/151917085/4d9e0894-5064-47b0-85a4-909583da640b)
 
 
-
+![room](https://github.com/antoine-hoang/cucumber_lululemon/assets/151917085/cd011461-70c8-4064-bd8d-21b6ac968b8c)
 
 
 
