@@ -67,8 +67,9 @@ Structure of the project is as follows:
 - Overall an interesting exercice, especially because of the refactoring with Cucumber, which took almost 80% of the total time spent on this project.
   
 
-
-
+Screenshots:
+![room_creation]([http://url/to/img.png](https://cdn.discordapp.com/attachments/1102095396387430441/1177549813517127700/api.JPG?ex=6572e9b9&is=656074b9&hm=6eb94be47024035aa4bfe8d6cd8c07b0d356cb177c8b03db6b597580e538f687&)https://cdn.discordapp.com/attachments/1102095396387430441/1177549813517127700/api.JPG?ex=6572e9b9&is=656074b9&hm=6eb94be47024035aa4bfe8d6cd8c07b0d356cb177c8b03db6b597580e538f687&)
+![api_testing]([http://url/to/img.png](https://cdn.discordapp.com/attachments/1102095396387430441/1177549813806551102/room.JPG?ex=6572e9b9&is=656074b9&hm=71ad7be0be991b9f77ede8a5124584725432e670082a630bc71fbd8d793cb6c1&)https://cdn.discordapp.com/attachments/1102095396387430441/1177549813806551102/room.JPG?ex=6572e9b9&is=656074b9&hm=71ad7be0be991b9f77ede8a5124584725432e670082a630bc71fbd8d793cb6c1&)
 
 
 
